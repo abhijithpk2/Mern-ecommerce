@@ -118,3 +118,10 @@ Register page
   justify-content: center;
   flex-direction: column;
 }
+
+/* dashboard products view page */
+.product-link{
+  text-decoration: none !important;
+  color: black !important;
+
+}
